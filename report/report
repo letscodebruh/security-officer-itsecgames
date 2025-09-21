@@ -1,0 +1,9 @@
+kali VM updated and required tools installed: nmap, gobuster, nikto, whatweb, curl, testssl.sh
+Kali VM updated and required tools installed: nmap, gobuster, nikto, whatweb, curl, testssl.sh.
+Recon: itsecgames.com resolves to IP 31.3.96.40.
+ WHOIS registrar: ITSECGAMES.COM.
+ DNS hosted on ns1.example. Evidence files: evidence/whois.txt, evidence/ip.txt, evidence/dig_answer.txt.
+Directory discovery found these paths: /admin (status 200), /uploads (status 403). Evidence: scans/gobuster_dirs_http.txt
+Nikto scan outputs saved to scans/nikto_https.txt. Nikto flags included: [list top findings]
+SSL/TLS: Certificate valid until DATE. Supported protocols: TLSv1.2, TLSv1.3 (if shown). Weak ciphers supported: [list]. Evidence: scans/testssl.txt and SSLLabs screenshot.
+

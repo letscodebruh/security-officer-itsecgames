@@ -1,0 +1,7 @@
+;; Connection to 192.168.29.1#53(192.168.29.1) for itsecgames.com failed: timed out.
+;; no servers could be reached
+;; Connection to 192.168.29.1#53(192.168.29.1) for itsecgames.com failed: timed out.
+;; no servers could be reached
+;; Connection to 192.168.29.1#53(192.168.29.1) for itsecgames.com failed: timed out.
+;; Connection to 2405:201:c029:4238::c0a8:1d01#53(2405:201:c029:4238::c0a8:1d01) for itsecgames.com failed: timed out.
+;; no servers could be reached
